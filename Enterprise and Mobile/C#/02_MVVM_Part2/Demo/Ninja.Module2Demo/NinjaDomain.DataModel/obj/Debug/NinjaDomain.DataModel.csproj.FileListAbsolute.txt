@@ -1,0 +1,30 @@
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Inital.resources
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\Users\20002650\Documents\PXL\DotNetAdvanced\Exercises\6. DataSources and DataSets\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Inital.resources
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
