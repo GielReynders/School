@@ -12,3 +12,6 @@ C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\St
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\obj\Debug\StarWarsMovies.csprojResolveAssemblyReference.cache
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\obj\Debug\StarWarsMovies.exe
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\obj\Debug\StarWarsMovies.pdb
+C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\bin\Debug\StarWarsMovies.exe.config
+C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\obj\Debug\StarWarsMovies.exe
+C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies\obj\Debug\StarWarsMovies.pdb
