@@ -2,6 +2,7 @@ namespace StarWarsMovies.Migrations
 {
     using DomainClasses.Classes;
     using System;
+    using System.Collections.Generic;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
@@ -10,7 +11,7 @@ namespace StarWarsMovies.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(StarWarsMovies.DataLayer.StarWarsContext context)
@@ -28,9 +29,13 @@ namespace StarWarsMovies.Migrations
             //    );
             //
 
+            StarWarsMovies.Services.SWDataService swds = new StarWarsMovies.Services.SWDataService();
+            List<SWMovie> movies = swds.GetAllSWMovies();
+            movies.ForEach(s => context.SWMovie.AddOrUpdate(m => m.ResourceUri, s));
 
-            context
-
+            List<SWPlanet> Planets = swds.GetAllSWPlanets();
+            Planets.ForEach(s => context.SWPlanet.AddOrUpdate(m => m.ResourceUri, s));
+            
         }
     }
 }

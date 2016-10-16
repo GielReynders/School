@@ -14,11 +14,12 @@ namespace StarWarsMovies.DataLayer
             {}
 
         public DbSet<SWMovie> SWMovie { get; set; }
+        public DbSet<SWPlanet> SWPlanet { get; set; }
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)    
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<SWMovie>().HasKey(c => c.ResourceUri);
-            //base.OnModelCreating(modelBuilder); 
+            modelBuilder.Entity<SWMovie>().HasKey(c => c.ResourceUri);
+            base.OnModelCreating(modelBuilder); 
         }
     }
 }

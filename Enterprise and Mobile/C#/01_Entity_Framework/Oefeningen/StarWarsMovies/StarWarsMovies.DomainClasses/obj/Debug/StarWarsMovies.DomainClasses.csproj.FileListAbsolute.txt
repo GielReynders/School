@@ -9,3 +9,14 @@ C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\St
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\Newtonsoft.Json.xml
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.dll
 C:\School\Enterprise and Mobile\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.pdb
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\StarWarsMovies.DomainClasses.dll.config
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\StarWarsMovies.DomainClasses.dll
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\StarWarsMovies.DomainClasses.pdb
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\EntityFramework.dll
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\EntityFramework.xml
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.dll
+C:\Users\Titaantje\Documents\GitHub\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.pdb

@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\SWMovie.cs" />
+    <Compile Include="Classes\SWPlanet.cs" />
     <Compile Include="Classes\SWResource .cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -57,6 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataLayer\StarWarsContext.cs" />
+    <Compile Include="Migrations\201610161437578_AddPlanets.cs" />
+    <Compile Include="Migrations\201610161437578_AddPlanets.Designer.cs">
+      <DependentUpon>201610161437578_AddPlanets.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,6 +76,11 @@
       <Project>{533240FE-5F65-4F00-BBBA-3D8E3AB84950}</Project>
       <Name>StarWarsMovies.DomainClasses</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201610161437578_AddPlanets.resx">
+      <DependentUpon>201610161437578_AddPlanets.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

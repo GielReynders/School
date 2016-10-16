@@ -23,5 +23,11 @@ namespace StarWarsMovies.DomainClasses.Classes
 
         [JsonProperty(PropertyName = "release_date")]
         public DateTime ReleaseDate { get; set; }
+
+        [JsonIgnore]
+        public virtual List<SWPlanet> Planets { get; set; }
+
+        [JsonProperty(PropertyName = "planets")]
+        public List<string> PlanetUris { get; set; }
     }
 }
