@@ -24,7 +24,10 @@ namespace StarWarsMovies
                 foreach ( var item in query)
                 {
                     Console.WriteLine("Epidsode: " + item.Episode_ID + " - " );
+                    Console.WriteLine(item.PlanetUris.Count());
+                    
                 }
+                Console.ReadKey();
             }
         }
     }

@@ -31,10 +31,18 @@ namespace StarWarsMovies.Migrations
 
             StarWarsMovies.Services.SWDataService swds = new StarWarsMovies.Services.SWDataService();
             List<SWMovie> movies = swds.GetAllSWMovies();
+            List<SWPlanet> Planets = swds.GetAllSWPlanets();
+            foreach (var movie in movies)
+            {
+                Console.WriteLine(movie.PlanetUris.Count());
+
+                
+            }
             movies.ForEach(s => context.SWMovie.AddOrUpdate(m => m.ResourceUri, s));
 
-            List<SWPlanet> Planets = swds.GetAllSWPlanets();
-            Planets.ForEach(s => context.SWPlanet.AddOrUpdate(m => m.ResourceUri, s));
+            
+            Planets.ForEach(s => context.SWPlanet.AddOrUpdate(m => m.ResourceUri, s));         
+            
             
         }
     }
