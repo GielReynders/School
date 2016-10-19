@@ -1,0 +1,5 @@
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Les Oefeningen\Databinding Demo 3\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Les Oefeningen\Databinding Demo 3\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Les Oefeningen\Databinding Demo 3\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.csprojResolveAssemblyReference.cache
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Les Oefeningen\Databinding Demo 3\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Les Oefeningen\Databinding Demo 3\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.pdb

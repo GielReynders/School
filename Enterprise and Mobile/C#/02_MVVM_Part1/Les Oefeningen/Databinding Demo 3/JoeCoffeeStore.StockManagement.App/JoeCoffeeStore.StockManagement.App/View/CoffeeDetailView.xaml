@@ -1,0 +1,53 @@
+﻿<Controls:MetroWindow x:Class="JoeCoffeeStore.StockManagement.App.View.CoffeeDetailView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Joe's Coffee Store stock management" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        Height="400" 
+        Width="600">
+    <ScrollViewer>
+        
+        <Grid Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="55"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="80"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Content="{Binding CoffeeName}" Grid.ColumnSpan="2" FontSize="40" FontWeight="Bold"></Label>
+
+            <Image Source="{Binding ImageId}" Grid.Row="1"
+                   Grid.ColumnSpan="2" MaxHeight="150" MaxWidth="150"></Image>
+            <Label Grid.Row="2" Content="Id" FontWeight="Bold"></Label>
+            <Label Grid.Row="3" Content="Description" FontWeight="Bold" VerticalAlignment="Center"></Label>
+            <Label Grid.Row="4" Content="Price" FontWeight="Bold"></Label>
+            <Label Grid.Row="5" Content="Stock amount" FontWeight="Bold"></Label>
+            <Label Grid.Row="6" Content="First time added" FontWeight="Bold"></Label>
+
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding CoffeeId, Mode=OneWay}"></TextBox>
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Description, Mode=OneWay}" AcceptsReturn="True" Height="75"></TextBox>
+            <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Price, Mode=OneWay}"></TextBox>
+            <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding AmountInStock}"></TextBox>
+            <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding FirstAddedToStockDate}"></TextBox>
+            <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding ExtraDescription}"></TextBox>
+
+            <StackPanel Grid.Row="9" Orientation="Horizontal" Grid.ColumnSpan="2">
+                <Button Name="ChangeCoffeeButton" Click="ChangeCoffeeButton_Click" Margin="5" Content="Change coffee"></Button>
+                <Button Name="SaveCoffeeButton" Click="SaveCoffeeButton_Click" Margin="5" Content="Save coffee"></Button>
+            </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
+</Controls:MetroWindow>

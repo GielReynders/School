@@ -1,0 +1,1 @@
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\StarWarsUWP.csproj;x86

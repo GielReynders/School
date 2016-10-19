@@ -25,6 +25,7 @@ namespace StarWarsUWP
         public MainPage()
         {
             this.InitializeComponent();
+            
         }
     }
 }

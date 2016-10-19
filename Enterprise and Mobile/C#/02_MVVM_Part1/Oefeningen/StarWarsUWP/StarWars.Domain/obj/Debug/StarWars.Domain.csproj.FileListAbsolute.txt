@@ -1,0 +1,12 @@
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.dll.config
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pdb
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\EntityFramework.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\EntityFramework.xml
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.csprojResolveAssemblyReference.cache
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.dll
+C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.pdb
