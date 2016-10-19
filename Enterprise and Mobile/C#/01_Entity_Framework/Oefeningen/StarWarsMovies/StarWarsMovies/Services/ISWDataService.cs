@@ -13,7 +13,7 @@ namespace StarWarsMovies.Services
         SWMovie GetSWMovieDetails(string uri);
 
         List<SWPlanet> GetAllSWPlanets();
-        SWPlanet GetSWPlanetDetails(string url);
+        SWPlanet GetSWPlanetDetails(string uri);
 
     }
 }

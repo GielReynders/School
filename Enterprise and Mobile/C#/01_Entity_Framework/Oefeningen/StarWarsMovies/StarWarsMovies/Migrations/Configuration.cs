@@ -32,21 +32,20 @@ namespace StarWarsMovies.Migrations
             StarWarsMovies.Services.SWDataService swds = new StarWarsMovies.Services.SWDataService();
             List<SWMovie> movies = swds.GetAllSWMovies();
             List<SWPlanet> Planets = swds.GetAllSWPlanets();
-            foreach (var movie in movies)
-            {
-                
-
-                
-            }
+           
             
             movies.ForEach(s => context.SWMovie.AddOrUpdate(m => m.ResourceUri, s));
-
-            
             Planets.ForEach(s => context.SWPlanet.AddOrUpdate(m => m.ResourceUri, s));
 
+            foreach(var p in Planets)
+            {
+                context.Entry(p).Collection(s => s.films).Load();
+                foreach (var f in p.filmuris)
+                {
+                    p.films.Add(movies.Find(m => m.ResourceUri == f));
+                }
+            }
             
-
-            //movies.ForEach(s => context.SWMovie.AddOrUpdate(m => m.PlanetUris, s));
             //Planets.ForEach(s => context.SWPlanet.AddOrUpdate(m => m.filmuris, s)); 
             
             

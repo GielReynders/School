@@ -19,15 +19,28 @@ namespace StarWarsMovies.DataLayer
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<SWMovie>().HasKey(c => c.ResourceUri).HasMany(s => s.Planets);
-            //base.OnModelCreating(modelBuilder);
+
+
 
             modelBuilder.Entity<SWPlanet>().HasKey(c => c.ResourceUri).HasMany(s => s.films);
 
-            //modelBuilder.Entity<SWPlanet>().HasMany(s => s.films);
 
-            //modelBuilder.Entity<SWMovie>().HasMany(s => s.Planets);
 
             //modelBuilder.Entity<SWMovie>()
+            //    .HasMany<SWPlanet>(c => c.Planets)
+            //    .WithMany(d => d.films)
+            //    .Map(cs =>
+            //        {
+            //            cs.MapLeftKey("ResourceUri");
+            //            cs.MapRightKey("ResourceUri");
+            //            cs.ToTable("SWMovieSWPlanet");
+            //        }
+
+            //    );
+
+            //t => t.MapLeftKey("ResourceUri")
+            //.MapRightKey("ResourceUri")
+            //.ToTable("SWMovieSWPlanets"));
         }
     }
 }

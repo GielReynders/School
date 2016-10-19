@@ -43,10 +43,10 @@ namespace StarWarsMovies.Services
             return movie; 
         }
 
-        public SWPlanet GetSWPlanetDetails(string url)
+        public SWPlanet GetSWPlanetDetails(string uri)
         {
             var client = new HttpClient();
-            var response = Task.Run(() => client.GetAsync(url)).Result;
+            var response = Task.Run(() => client.GetAsync(uri)).Result;
             response.EnsureSuccessStatusCode();
             var result = Task.Run(() => response.Content.ReadAsStringAsync()).Result;
             var planet = JsonConvert.DeserializeObject<SWPlanet>(result);
