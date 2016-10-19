@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{6e3c63d1-83dd-4e23-8ea9-185761a4d70f}</ProjectGuid>
+    <ProjectGuid>{e472db75-cc20-4f8d-b27c-fe39b47c47be}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StarWarsUWP</RootNamespace>

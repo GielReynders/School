@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="e0f2cc88-301c-408d-8993-507a0122a3d5"
+    Name="f86f6835-369f-4b69-b9c4-5c568af790ec"
     Publisher="CN=Jafar"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="e0f2cc88-301c-408d-8993-507a0122a3d5" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="f86f6835-369f-4b69-b9c4-5c568af790ec" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>StarWarsUWP</DisplayName>

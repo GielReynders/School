@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,5 +21,11 @@ namespace StarWars.Domain.Classes
 
         [JsonProperty(PropertyName = "release_date")]
         public DateTime ReleaseDate { get; set; }
+
+        [JsonIgnore]
+        public virtual List<SWPlanet> Planets { get; set; }
+
+        [JsonProperty(PropertyName = "planets")]
+        public List<string> PlanetUris { get; set; }
     }
 }
