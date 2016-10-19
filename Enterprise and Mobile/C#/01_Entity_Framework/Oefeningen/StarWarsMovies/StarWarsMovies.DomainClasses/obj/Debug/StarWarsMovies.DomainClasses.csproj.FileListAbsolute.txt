@@ -31,4 +31,3 @@ C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies
 C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\bin\Debug\Newtonsoft.Json.xml
 C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.dll
 C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.pdb
-C:\School\Enterprise and Mobile\C#\01_Entity_Framework\Oefeningen\StarWarsMovies\StarWarsMovies.DomainClasses\obj\Debug\StarWarsMovies.DomainClasses.csprojResolveAssemblyReference.cache

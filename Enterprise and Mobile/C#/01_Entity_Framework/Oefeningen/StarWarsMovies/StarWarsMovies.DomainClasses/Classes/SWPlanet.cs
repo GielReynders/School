@@ -15,16 +15,16 @@ namespace StarWarsMovies.DomainClasses.Classes
         public int RotationPeriod { get; set; }
         [JsonProperty("orbital_period")]
         public int OrbitalPeriod { get; set; }
-        public int diameter { get; set; }
-        public string climate { get; set; }
-        public string gravity { get; set; }
-        public string terrain { get; set; }
+        public int Diameter { get; set; }
+        public string Climate { get; set; }
+        public string Gravity { get; set; }
+        public string Terrain { get; set; }
         [JsonProperty("surface_water")]
-        public string surfacewater { get; set; }
-        public string population { get; set; }
+        public string Surfacewater { get; set; }
+        public string Population { get; set; }
         [JsonIgnore]
-        public virtual List<SWMovie> films { get; set; }
+        public virtual List<SWMovie> Films { get; set; }
         [JsonProperty(PropertyName = "films")]
-        public List<string> filmuris { get; set; }
+        public List<string> Filmuris { get; set; }
     }
 }

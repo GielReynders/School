@@ -22,7 +22,7 @@ namespace StarWarsMovies.DataLayer
 
 
 
-            modelBuilder.Entity<SWPlanet>().HasKey(c => c.ResourceUri).HasMany(s => s.films);
+            modelBuilder.Entity<SWPlanet>().HasKey(c => c.ResourceUri).HasMany(s => s.Films);
 
 
 
