@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-19T14:51:32.638</Modified>
+      <Modified>2016-10-21T07:56:49.496</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.exe">
       <PackagePath>entrypoint\StarWarsUWP.exe</PackagePath>
-      <Modified>2016-10-19T14:51:31.676</Modified>
+      <Modified>2016-10-21T07:56:48.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jafar\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -452,6 +452,10 @@
       <PackagePath>Assets\filler.png</PackagePath>
       <Modified>2016-10-19T14:19:20.134</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\Assets\Small_logo_splash.png">
+      <PackagePath>Assets\Small_logo_splash.png</PackagePath>
+      <Modified>2016-10-21T07:12:11.293</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T15:20:42.000</Modified>
@@ -492,7 +496,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.xr.xml">
       <PackagePath>StarWarsUWP.xr.xml</PackagePath>
-      <Modified>2016-10-19T14:51:31.414</Modified>
+      <Modified>2016-10-21T07:56:48.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -500,11 +504,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-19T14:51:32.384</Modified>
+      <Modified>2016-10-21T07:56:49.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\StarWarsUWP.exe">
       <PackagePath>StarWarsUWP.exe</PackagePath>
-      <Modified>2016-10-19T14:51:32.633</Modified>
+      <Modified>2016-10-21T07:56:49.492</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

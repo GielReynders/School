@@ -112,7 +112,6 @@ C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWars
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XDocument.dll
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
-C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csprojResolveAssemblyReference.cache
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.i.cs
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.cs
 C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.i.cs

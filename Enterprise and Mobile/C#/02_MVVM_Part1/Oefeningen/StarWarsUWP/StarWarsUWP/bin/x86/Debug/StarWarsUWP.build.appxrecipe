@@ -337,6 +337,9 @@
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\Assets\filler.png">
       <PackagePath>Assets\filler.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\Assets\Small_logo_splash.png">
+      <PackagePath>Assets\Small_logo_splash.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\School\Enterprise and Mobile\C#\02_MVVM_Part1\Oefeningen\StarWarsUWP\StarWarsUWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>

@@ -5,11 +5,73 @@
     xmlns:local="using:StarWarsUWP"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
-    
+    mc:Ignorable="d"
+    Height="400"
+    Width="350">
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <!-- Image -->
-        <Image x:Name="Poster" Source="Assets/filler.png"/>
-        <!-- Text -->
+        <RelativePanel x:Name="StarwarsPoster" 
+                       HorizontalAlignment="Stretch"
+                       Margin="0">
+
+            <!-- Image 
+            <Image x:Name="Poster" 
+                   Source="Assets\filler.png"
+                   RelativePanel.AlignLeftWithPanel="True"
+                   RelativePanel.AlignVerticalCenterWithPanel="True" Width="150" Margin="0,0,0,44"/>
+            -->
+            
+            <Border x:Name="ElementOne" Width="200" Height="340" Background="Red" 
+            
+            RelativePanel.AlignVerticalCenterWithPanel="True"/>
+
+            <!-- Text -->
+            <TextBlock Text="First name"
+               x:Name="FirstNameLabel"
+               Margin="0,5,10,5"
+               RelativePanel.Above="ElementOne"
+               />
+
+            <TextBlock Text="Release Date"
+               x:Name="Release"
+               Margin="0,5,10,5"
+               RelativePanel.RightOf="ElementOne" 
+               RelativePanel.AlignTopWith="ElementOne"
+                       FontSize="10"
+               />
+            <TextBlock Text="Release "
+               x:Name="ReleaseDate"
+               Margin="0,5,10,5"
+               RelativePanel.Below="Release"
+               RelativePanel.AlignLeftWith="Release"        
+               />
+
+            <TextBlock Text="Director"
+               x:Name="Director"
+               Margin="0,5,10,5"
+               RelativePanel.Below="ReleaseDate"
+               RelativePanel.AlignLeftWith="ReleaseDate"   
+                       FontSize="10"
+               />
+            <TextBlock Text="Director Name"
+               x:Name="DirectorName"
+               Margin="0,5,10,5"
+               RelativePanel.Below="Director"
+               RelativePanel.AlignLeftWith="Director"        
+               />
+            <TextBlock Text="Producer"
+               x:Name="Producer"
+               Margin="0,5,10,5"
+               RelativePanel.Below="DirectorName"
+               RelativePanel.AlignLeftWith="DirectorName"  
+               FontSize="10"
+               />
+            <TextBlock Text="Producer Name"
+               x:Name="ProducerName"
+               Margin="0,5,10,5"
+               RelativePanel.Below="Producer"
+               RelativePanel.AlignLeftWith="Producer"      
+               />
+        </RelativePanel>
     </Grid>
 </Page>
